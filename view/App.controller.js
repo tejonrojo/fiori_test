@@ -1,0 +1,1 @@
+sap.ui.core.mvc.Controller.extend("net.holcim.la.crd1.view.App", {});

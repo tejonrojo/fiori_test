@@ -1,0 +1,16 @@
+<mvc:View displayBlock="true" xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m" controllerName="net.holcim.la.crd1.controller.Image">
+	<Carousel>
+		<pages>
+			<Button text="Press Button" press="onShowHello"/>
+			<Image
+				src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Montagem_RJ.jpg/250px-Montagem_RJ.jpg"
+				height="100px"/>
+			<Image
+				src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Montagem_RJ.jpg/250px-Montagem_RJ.jpg"
+				height="100px"/>
+				
+		</pages>
+		
+	</Carousel>
+	
+</mvc:View> 
